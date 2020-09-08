@@ -1,0 +1,126 @@
+For input set1:
+pointer is 1001
+string is B11B111B
+pointer is 1002
+string is B11B111B
+pointer is 1003
+string is B11B111B
+pointer is 1004
+string is B111111B
+pointer is 1005
+string is B111111B
+pointer is 1006
+string is B111111B
+pointer is 1007
+string is B111111B
+pointer is 1006
+string is B111111B
+pointer is 1007
+string is B11111B
+Reached final state of addition_of_unary_number
+*******************************************
+
+
+-------------------------------------------
+
+For input set2:
+pointer is 1001
+string is BabbaaB
+pointer is 1002
+string is BbbaaB
+pointer is 1003
+string is BbbaaB
+pointer is 1004
+string is BbbaaB
+pointer is 1005
+string is BbbaaB
+pointer is 1006
+string is BbbaaB
+pointer is 1005
+string is BbbaaB
+pointer is 1004
+string is BbbaB
+pointer is 1003
+string is BbbaB
+pointer is 1002
+string is BbbaB
+pointer is 1001
+string is BbbaB
+pointer is 1002
+string is BbbaB
+pointer is 1003
+string is BbaB
+pointer is 1004
+string is BbaB
+pointer is 1005
+string is BbaB
+pointer is 1004
+string is BbaB
+Did not reach final state of palindrome
+*******************************************
+
+
+-------------------------------------------
+
+For input set3:
+pointer is 1001
+string is B01010B
+pointer is 1002
+string is B01010B
+pointer is 1003
+string is B01010B
+pointer is 1004
+string is B01010B
+pointer is 1005
+string is B01010B
+pointer is 1006
+string is B01010B
+Did not reach final state of ending_with_010(Non_deterministic)
+*******************************************
+
+pointer is 1001
+string is B01010B
+pointer is 1002
+string is B01010B
+pointer is 1003
+string is B01010B
+pointer is 1004
+string is B01010B
+pointer is 1005
+string is B01010B
+pointer is 1006
+string is B0101XB
+Did not reach final state of ending_with_010(Non_deterministic)
+*******************************************
+
+pointer is 1001
+string is B01010B
+pointer is 1002
+string is B01010B
+pointer is 1003
+string is B01010B
+pointer is 1004
+string is B01X10B
+pointer is 1005
+string is B01XY0B
+pointer is 1006
+string is B01XYXB
+pointer is 1007
+string is B01XYXB
+Reached final state of ending_with_010(Non_deterministic)
+*******************************************
+
+pointer is 1001
+string is B01010B
+pointer is 1002
+string is BX1010B
+pointer is 1003
+string is BXY010B
+pointer is 1004
+string is BXYX10B
+Did not reach final state of ending_with_010(Non_deterministic)
+*******************************************
+
+
+-------------------------------------------
+
